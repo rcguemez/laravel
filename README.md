@@ -2,7 +2,7 @@
 
 Está guía está diseñada para poder obtener el código del curso de Laravel de una forma amigable y en español.
 
-::: warning Aviso
+::: tip Aviso
 Esta guía está en constante actualización, podría no estar completa.
 :::
 
